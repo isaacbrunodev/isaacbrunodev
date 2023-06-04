@@ -10,4 +10,4 @@
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
-![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacbrunodev&show_icons=true&theme=radical)
+![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=saacbrunodev&show_icons=true&theme=radical)
