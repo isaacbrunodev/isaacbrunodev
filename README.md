@@ -1,5 +1,3 @@
-## Olá,Mundo
-## Eu sou Isaac Bruno
 ```ruby 
 class Developer
 
